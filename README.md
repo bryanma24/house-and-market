@@ -2,7 +2,7 @@
 
 Created by: 
 Ted Pomianek
-Neil Keltcher
+Neil Keltcher (keltcher.n@northeastern.edu) 
 Bryan Ma (ma.bry@northeastern.edu)
 
 
